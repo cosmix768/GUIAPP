@@ -1,20 +1,11 @@
 package GuiApp;
 
 import java.awt.EventQueue;
-
 import javax.swing.JFrame;
-import javax.swing.JSplitPane;
-import java.awt.BorderLayout;
 import javax.swing.JTextField;
 import javax.swing.JLabel;
-import java.awt.GridLayout;
-import java.awt.GridBagLayout;
 import java.awt.Color;
-import java.awt.Panel;
-import javax.swing.JSeparator;
-import javax.swing.SwingConstants;
 import java.awt.Font;
-import javax.swing.JPanel;
 import javax.swing.JButton;
 import javax.swing.UIManager;
 import java.awt.SystemColor;
